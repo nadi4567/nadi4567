@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nadi.
 - 👀 I’m interested in learning coding.
-- 🌱 I’m currently learning web development and English language.
-- 💞️ I’m looking to collaborate on my projects.
+- 🌱 I’m currently learning web development .
+- 
 - 📫 How to reach me . You can contact me via email: yunadisoe8@gmail.com or via Telegram  :https://t.me/nadi456789
 - 
 
