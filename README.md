@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nadi.
 - 🌱I'm  learning web development and building my own awesome projects through Angela Yu's Full Stack Web Development course on Udemy.
-  I'm at the early stages of my web development career, eagerly soaking up knowledge and experience. My current focus lies in HTML, CSS, and JavaScript,React and I'm excited about the endless possibilities that lie ahead.
+   My current focus lies in HTML, CSS, and JavaScript,React and I'm excited about the endless possibilities that lie ahead.
   
 -  I have been learning also backend development API,Database,Node.js, Express.js.I've built some awesome Web apps with backend tech such as Weather App, ToDoList with MongoDB Database and so on.
 -
