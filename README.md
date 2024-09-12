@@ -1,5 +1,5 @@
-- 
-- 🌱I'm  learning web development and building my own awesome projects through Angela Yu's Full Stack Web Development course on Udemy.
+
+- 🌱I'm Yu Nadi Soe and  learning web development and building my projects through Angela Yu's Full Stack Web Development course on Udemy.
    My current focus lies in HTML, CSS, and JavaScript,React and I'm excited about the endless possibilities that lie ahead.
   
 -  I have been learning also backend development API,Database,Node.js, Express.js.I've built some awesome Web apps with backend tech such as Weather App, ToDoList with MongoDB Database and so on.
